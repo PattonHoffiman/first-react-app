@@ -1,5 +1,4 @@
 # First App Template
-## Use this as a template to begin your React Apps 😁
 
 Using **create-react-app**, but removing some files witch maybe you does not need for begin your projet. Also added the devDependencies in `package.json` because **create-react-app** lacks this.
 
